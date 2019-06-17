@@ -8,9 +8,6 @@ import io.restassured.specification.RequestSpecification;
 import java.util.HashMap;
 import java.util.Map;
 
-/**
- * @author Juan Krzemien
- */
 public enum TestContext {
 
   CONTEXT;

@@ -17,5 +17,4 @@ public abstract class AbstractSteps {
   public TestContext testContext() {
     return CONTEXT;
   }
-
 }
